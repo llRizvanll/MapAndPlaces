@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Crossover</string>
+    <string name="hint_email">Please enter your email id .</string>
+    <string name="hint_pwd">Please enter your password.</string>
+    <string name="hint_card_name">Please enter your name .</string>
+    <string name="data_file">saitama_data</string>
+</resources>
